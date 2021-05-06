@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license xmlns="http://www.axissoft.co.jp/CRS/2010/license">
+	<serial_no>BH01000153</serial_no>
+	<product>Biz/Browser HT</product>
+	<company>BRYCEN Co.,Ltd</company>
+	<person>TRAN NGOC VU</person>
+	<usage>public</usage>
+	<date>Mon, 26 Apr 2021 17:15:44 +0900</date>
+	<expire>Mon, 27 Apr 2071 00:00:00 +0900</expire>
+	<security level="2"/>
+	<url>https://cooola.cloud/</url>
+	<url>http://35.200.97.225/</url>
+	<url>http://35.189.147.201/</url>
+	<signature>yNrgUAeKO7JjEePG11/HVuDoWFQ9fCSkTq6O4mfcns38n9gly7ZYVw==</signature>
+</license>
