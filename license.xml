@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license xmlns="http://www.axissoft.co.jp/CRS/2004/license">
+	<serial_no>ML02000267</serial_no>
+	<product>Biz/Browser Mobile for Windows Embedded Compact 7 ver4.0</product>
+	<company>SBS Logicom Co., Ltd.</company>
+	<person>WATANABE TAISUKE</person>
+	<usage>public</usage>
+	<date>Thu, 18 Apr 2019 14:15:51 +0900</date>
+	<expire>Wed, 31 Jul 2019 23:59:59 +0900</expire>
+	<url>*</url>
+	<signature algorithm="3DES">SEPUYh3dih2puvgYB2p8fovT+w8HJ2LR1HUVQ5vq0Ds=</signature>
+</license>
