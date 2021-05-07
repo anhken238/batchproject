@@ -8,7 +8,9 @@
 	<date>Thu, 18 Apr 2019 14:18:53 +0900</date>
 	<expire>Thu, 01 Aug 2019 00:00:00 +0900</expire>
 	<security level="0"/>
-	<url>*</url>
+	<url>https://cooola.cloud/</url>
+	<url>http://35.200.97.225/</url>
+	<url>http://35.189.147.201/</url>
 	<expire_action>refuse</expire_action>
 	<signature>yNrgUAeKO7I36WqIdQpMkXf6qr/cmfA81k/boSFFoefU6h47yRlm9w==</signature>
 </license>
